@@ -1,3 +1,7 @@
 body{
-font-family: Verdana;
+font-family: Helvetica;
+ text-align: centered horizontally;
+}
+h1 h5{
+  backgroung-image: ./resources/css/the-flatiron-building.png
 }
