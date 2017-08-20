@@ -3,5 +3,6 @@ font-family: Helvetica;
  text-align: centered horizontally;
 }
 h1 h5{
-  backgroung-image: ./resources/css/the-flatiron-building.png
+  background-image: ./resources/css/the-flatiron-building.png;
+ background-image: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png;
 }
