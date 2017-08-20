@@ -1,6 +1,6 @@
 body{
 font-family: Helvetica;
- text-align: centered horizontally;
+ text-align: center;
 }
 h1 h5{
   background-image: ./resources/css/the-flatiron-building.png;
