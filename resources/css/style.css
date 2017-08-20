@@ -3,7 +3,7 @@ font-family: Helvetica;
  text-align: center;
 }
 h1 h5 h2{
-  background-image:"broadway/resources/css/the-flatiron-building.png"; 
+  background-image: url ("broadway/resources/css/the-flatiron-building.png"); 
 }
 h5{
  font-size: 18px;
