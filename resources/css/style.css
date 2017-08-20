@@ -3,7 +3,7 @@ font-family: Helvetica;
  text-align: center;
 }
 h1{
-  background-image: url (https://raw.githubusercontent.com/esinapaydin/broadway/master/resources/css/the-flatiron-building.png); 
+ background-image: url(https://raw.githubusercontent.com/esinapaydin/broadway/master/resources/css/the-flatiron-building.png);
 }
 h5{
  font-size: 18px;
